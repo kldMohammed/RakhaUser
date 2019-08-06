@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#EC3A02</color>
+    <color name="colorAccent">#E64A19</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="red">#f44336</color>
+    <color name="navigationColor">#607D8B</color>
+    <color name="tab_background_selected">#ffffff</color>
+    <color name="tab_background_unselected">#EC3A02</color>
+    <color name="priceColor">#29A79C</color>
+</resources>
