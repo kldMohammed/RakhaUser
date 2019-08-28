@@ -54,4 +54,8 @@
 	<string name="price_string">%s SDG</string>
 	<string name="favourite">Favourite</string>
 	<string name="map">Map</string>
+	
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="rakha">Rakha</string>
 </resources>

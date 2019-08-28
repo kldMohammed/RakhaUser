@@ -10,4 +10,5 @@
     <color name="tab_background_selected">#ffffff</color>
     <color name="tab_background_unselected">#EC3A02</color>
     <color name="priceColor">#29A79C</color>
+    <color name="whiteGhost">#f8f8f8</color>
 </resources>

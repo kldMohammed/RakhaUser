@@ -8,7 +8,6 @@ import android.view.GestureDetector
 import android.view.MotionEvent
 import android.view.animation.Animation
 import androidx.appcompat.app.AppCompatActivity
-import com.alhayekgroup.rakhauser.extensions.toast
 import kotlinx.android.synthetic.main.activity_main.*
 
 
@@ -53,7 +52,7 @@ class MainActivity : AppCompatActivity(), GestureDetector.OnGestureListener {
     }
 
     override fun onScroll(p0: MotionEvent?, p1: MotionEvent?, p2: Float, p3: Float): Boolean {
-        toast("swipe up")
+      //  toast("swipe up")
         startActivity(Intent(applicationContext , HomeActivity::class.java))
         return true
     }
